@@ -31,7 +31,7 @@ public class StandAloneTest {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.manage().window().maximize();
 		driver.get("https://rahulshettyacademy.com/client");
-		
+		//MIlan Ivanovic
 		
 		
 		driver.findElement(By.id("userEmail")).sendKeys("milanivanovic@gmail.com");
