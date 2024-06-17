@@ -1,0 +1,8 @@
+milanivanovicacademy\pageobjects\CheckoutPage.class
+milanivanovicacademy\resources\ExtentReporterNG.class
+milanivanovicacademy\pageobjects\OrderPage.class
+milanivanovicacademy\AbstractComponents\AbstractComponent.class
+milanivanovicacademy\pageobjects\ConfirmationPage.class
+milanivanovicacademy\pageobjects\CartPage.class
+milanivanovicacademy\pageobjects\LandingPage.class
+milanivanovicacademy\pageobjects\ProductCatalogue.class
