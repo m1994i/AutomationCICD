@@ -34,6 +34,7 @@ public class StandAloneTest {
 		//MIlan Ivanovic
 		//MIlan
 		//Ivanovic
+		//Nena
 		
 		
 		driver.findElement(By.id("userEmail")).sendKeys("milanivanovic@gmail.com");
