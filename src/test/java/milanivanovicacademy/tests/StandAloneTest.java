@@ -32,6 +32,7 @@ public class StandAloneTest {
 		driver.manage().window().maximize();
 		driver.get("https://rahulshettyacademy.com/client");
 		//MIlan Ivanovic
+		//MIlan
 		
 		
 		driver.findElement(By.id("userEmail")).sendKeys("milanivanovic@gmail.com");
